@@ -34,7 +34,7 @@ https://teams.microsoft.com/
 
 Dalves18@its.jnj.com
 ==============================================================================
-                    FIX FOUNDATION SYNCHRO - FISCAL SOLUTION
+             FIX FOUNDATION REINF - SYNCHRO FISCAL SOLUTION
 ==============================================================================
 
 1 - ACESSAR O AMBIENTE PELO PUTTY
@@ -44,6 +44,32 @@ Dalves18@its.jnj.com
 5 - LOGAR => admin => Reinf!2021
 6 - cat /proc/sys/net/ipv4/ip_forward => is set 0 
 
+==============================================================================
+               IAM - NEW SECONDARY ACCOUNT 
+==============================================================================
+
+jnj\Admin_DAlves18
+apollo@3109
 
 
+
+
+
+
+https://queryx7.la.jnj.com:8443/Queryx7CO/inicio.do
+
+
+Queryx 7
+Colombia - https://queryx7.la.jnj.com:8443/Queryx7CO/inicio.do
+Ecuador - https://queryx7.la.jnj.com:8443/Queryx7EC/inicio.do
+Peru - https://queryx7.la.jnj.com:8443/Queryx7PE/inicio.do
+
+
+
+BETI Interno
+Colombia - https://queryx7.la.jnj.com:8443/AtgCO/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?cn=com.atg.rhiniatg&war=AtgCO
+
+Ecuador - https://queryx7.la.jnj.com:8443/AtgEC/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?cn=com.atg.rhiniatg&war=AtgEC
+
+Peru - https://queryx7.la.jnj.com:8443/AtgPE/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?cn=com.atg.rhiniatg&war=AtgPE
 
