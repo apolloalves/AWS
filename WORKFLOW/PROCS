@@ -1,0 +1,75 @@
+=======================================================================================================
+                                PROCEDIMENTOS DIÁRIO
+=======================================================================================================
+
+PROCESSOS JNJ : 
+
+    1 - APONTAR HORÁRIOS TODOS OS DIAS NO APPLENS  -> MANHÃ/LOGOUT
+    2 - VERIFICAR NO IRIS SE FOI ABERTO ALGUM CHAMADO ANTES DE DESLOGAR 
+    3 - VERIFICAR SE TODOS OS TICKEKS FORAM ATUALIZADOS -> MANHÃ/LOGOUT
+    4 - VERIFICAR CORREIO COG/JNJ TODOS OS DIAS MANHÃ/LOGOUT
+    5 - DAILY 
+
+OBS : NUNCA FECHAR UM TICKET COM STATUS "NOT REQUIRED" OU "CANCELLED" 
+SO APÓS AUTORIZAÇAO DE MAYRA, ARNALDO OU ROMARIO QUE PODEMOS "FECHAR"
+
+	6  - DEVEMOS SEMPRE ACIONAR O DBA 
+	7  - PEGAR A APROVAÇÃO DA [ MONICA ]
+	8  - CASO SEJA URGENTE : PROUCURAR UMA SOLUÇÃO DE CONTIGENCIA PROCURAR UM [ WORKAROUND ]  
+	9  - QUANDO ENVOLVE CELULA : [ DEVEMOS NOS ATENTAR AS INFORMAÇÕES ]
+	10 - QUEM DÁ A SOLUÇÃO É O VENDOR - NÃO SE COMPROMETER
+	11 - TEM O CHECK DO VENDOR > VALIDAR COM O BUSSINESS 
+	12 - [ SEMPRE COPIAR NOSSA DL ] 								
+
+
+==========================================================================================================
+						STRIKES PENDENCIA DO USUÁRIO ( AGUARDANDO O RETORNO )
+==========================================================================================================
+
+STRIKES -> BUSINESS ABRIU O TICKET NÃO É APLICAVEL PARA O VENDOR. 
+
+1 - ENVIAR E-MAIL E ANEXAR A EVIDENCIA NO TICKET 
+2 - ENVIAR E-MAIL E ANEXAR A EVIDENCIA NO TICKET
+3 - SALVAR TODO OS STRIKES E ANEXAR NO TICKET
+
+
+==========================================================================================================
+								STEPS UPDATE 
+==========================================================================================================
+
+1 - ATUALIZAR AMBIENTE DE DEV 
+2 - ATUALIZAR AMBIENTE DE QA
+3 - ATUALIZAR AMBIENTE DE PROD APÓS AS APROVAÇÕES
+
+OBS : ANTES DE QUALQUER ATUALIZAÇÃO DEVEMOS COMUNICAR AO TIME DE STABLE
+
+==========================================================================================================
+KCS - ARTIGO DE DESCRIÇÃO DE COMO RESOLVER UM PROBLEMA, PRECISAR SER ANEXADO NOS TICKETS 
+    DE TEMPOS FAZEMOS OS UPDATES. 
+
+==========================================================================================================
+                                        SYNCHRO
+==========================================================================================================
+
+CUSTOM -> TIME DE CÉLULA
+
+TOMAR CUIDADO COM QUE MANDA PARA O USUÁRIO -> "QUANDO SE TRATA DE UMA CUSTOM"
+CUSTOM : TEM QUE TER CERTEZA ANTES DE PASSAR PARA A CÉLULA
+
+ASSUNTOS DOS EMAILS : DEVEM SER SEPARADOS PARA CADA TICKET 
+EX: O CASO ESTÁ SENDO TRATADO NO EMAIL > ASSUNTO XPTO
+
+INCLUIR TODOS OS DETALHES NO EMAIL DO QUE VAI SER FEITO NA CHANGE PARA APROVAÇÃO.
+MONTAR LAYOUT DE APROVAÇÃO : CHANGE 
+CHECKLIST DE APROVAÇÃO 
+
+"NAO COPIAR O BUSINESS QUANDO FOR ENVIAR EMAILS PARA SYNCHRO".
+
+OBS : NA JNJ TEM DOIS CONCEITOS -> ERRO || MELHORIA
+CASO SEJA MELHORIA VERIFICAR SE EXISTE BACKLOG COM O TIME DE STABLE 
+
+PRB : É CRIADO PELO NOSSO TIME A FIM DE EVITAR QUE A SITUAÇÃO VOLTE A OCORRER.
+
+TIMES CBT : STABLE TEAM -> TIME DE PROJETOS -> ATUALIZAÇÃO -> IMPLEMENTAÇÃO -> MELHORIAS -> FEATURES   
+CORREÇÕES : NOSSO TIME 
+CELULA TEX: NOSSA STABLE PARA APLICAÇÃO DE SYNCHO TEAM -> CONTABÍL E FISCAL 

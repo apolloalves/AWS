@@ -1,0 +1,188 @@
+
+					ALINHAMENTO COM MARISTER - PROBLMEMAS APONTAMENTOS 
+
+1 - PROBLEMAS RECORRENTES - SISTEMA GRID (SYNCHRO) RELATÓRIOS APOS GERAR UM O VALOR GEROU ]
+OUTRO DIVERGENTE DA GRID PARA DIRF 
+
+PRIMEIRO SEMESTRE MUITAS GRIDS NAO FORAM FEITAS AS COMPOSIÇÕES
+SEGUNDO SEMESTRE FORAM FECHADAS AS COMPOSIÇÕES DAS GRIDS
+
+
+PONTOs DE ATENÇÃO : RELATÓRIOS DA SYNCHRO EM TELA DEVEM SER EXPORTADOS 
+					NÃO HÁ CONVERSÕES PARA EXTENSÕES .xls/.txt /.csv HOJE
+
+					SYNCHO NÃO CONSEGIU AGREGAR AS 7600/7610 
+
+SEGUNDO MARIESTER, TODOS OS RELATÓRIOS GRID SÃO JUNTADOS OS AJUSTES CONTABEIS NÃO REFLETIRAM NA DIRF 
+ELES SO TEM ACESSO A GRID COMO FERRAMENTA 
+
+
+CASO DIRF - PODE SE TORNAR UM "PROBLEM"
+
+==================================================================================================
+                                     DAILY 02/03
+==================================================================================================
+
+
+ACTIONS : 
+    LEVAR PARA SYNCHRO A DOR DO USUÁRIO ( BUSINESS )
+    NÃO DEVEMOS PROPOR MELHORIAS NA APLICAÇÃO
+
+    CASO O USUÁRIO TENHA UMA SUGESTÃO DE MELHORIA DEVE SER ENVIADO PARA CÉLULA
+    MARCOS IRÁ VERIFICAR COM A MARIESTER SOBRE ABERTURA DE TASK
+
+
+                                INSTALAÇÃO DE LICENÇA 
+
+    ALINHAR COM A CÉLULA COMO SERÁ FEITA A INSTALAÇÃO 
+    ORIENTAR A USUÁRIA ( BARBARA ) ABRIR TICKET NOVAMENTE COMO TASK
+    CANCELAR O INCIDENTE E SOLICITAR A SERVICE REQUEST 
+    AS PRÓXIMAS TRATATIVAS SERÃO VISTA COM A MAYARA
+
+==================================================================================================
+                                VANESSA WEEKLY - 02/03
+==================================================================================================
+
+ACCESS : A PESSOA QUE FAZ ACESSO VOLTA NA SEGUNDA-FEIRA -> APROVAR -> 1 DIA 
+TICKES DA KENVEU DEVEM SER ABERTOS NO DAYSE -> MAYARA VAI VER O DIRECIONAMENTO (INSTRUÇÃO PADRÃO)
+
+TUDO QUE FOI ABERTO HYPERCARE -> TIME DE PROJETO -> 
+APLICAÇÃO TRANSACIONADA -> PARA KENVEU -> ARNALDO ATENDE -> TICKET KENVEU
+
+QUALQUER TICKET DEPOIS DO DIA 26 -> PRA QUAL APLICAÇÃO QUE É ?
+SE FOR KENVEU DEVE SER ABERTO NO DAYSE - SE FOR JNJ ABRA PARA GENTE.
+
+NÃO DEVEMOS ASSIGNAR NENHUM TICKET SE FOR KENVEU DO CONTRÁRIO CANCELAR TICKEKS
+
+NOSSA INBOX 
+REQUISIÇÃO JUNTO AO TIME DE DBA
+FAZER PRIMEIRO EM AMBIENTES BAIXOS 
+
+
+RESPONSAVEL PELA QUALIDADE DOS DADOS É O -> BUSINESS  
+
+PRECISAMOS ENTENDER 
+O QUÃO É URGENTE ISSO ?
+
+
+
+RECURSOS : BARBARA/TATIANE - FORMAL JNJ USER - BOSS -> ANDREIA BARROS
+ADRIANO/JAMILE : 
+
+
+==================================================================================================
+                                     DAILY 03/03
+==================================================================================================
+
+A CHANGE DE QA TA ABERTA E PRECISA RELACIONAR COM A PARADA DO JOB -> ATUALIZAR O PROBLEM
+
+DAISY : ABERTURA DE TICKES TIME KENVEU
+USUARIOS DA KENVEU NÃO TERÁ ACESSO AO IRIS 
+TEREMOS DUAS FILAS KENVEU E JNJ - A CONFIRMAR
+
+APP ID : JX2 Q7 - 
+
+TERMINATION : GIOAVNI
+
+==================================================================================================
+                                     DAILY 06/03
+==================================================================================================
+
+CASE : MIKAEL SYNCHO
+ACTIONS : VERIFICAR COM O BRUNO SOBRE O ACEITE DE WORK AROUND.
+          NÃO ACEITAREMOS ATÉ QUE TENHAMOS ANÁLISE DO CUSTOMIZAVÉL CONCLUÍDA.
+          
+
+CASE : SURISADAI NEVES
+ACTIONS : ENVIAR PARA O TIME DA CÉLULA
+          PEGAR NÚMERO DO TICKET E FALAR COM O FABIO
+
+PARA VERIFICAR QUEM ABRIU O TICKET : IRIS  > STATS > FABIO
+
+CASE : SPED SYNCHRO - KELLY ALVARENGA
+ACTIONS : FALAR COM A USUÁRIA E VER SE ELA PODE AJUDAR A GENTE.
+
+CASE : SCRIPT 
+ACTIONS : VERIFICAR COM O SATO QUAL É A SOLUÇÃO PARA EVITAR OS PROBLEMAS PASSADOS
+
+==================================================================================================
+                                    POINTS
+==================================================================================================
+
+PROVAVELMENTE NÃO TERÁ TIME DE STABLE NA KENVEU : ARNALDO VAI VERIFICAR COM BUSHINA SE ESTÁ
+NO NOSSO ESCOPO.
+
+SCRIPT 
+
+======================================================================
+                                     DAILY 07/03
+======================================================================
+
+CASE : REINF - PEDIR ACESSO NO SERVIDOR PRA VER O SERVIÇO SE ESTA FORA
+ACTIONS :  ACESSO DE ADMIN -> START/STOP -> FOUNDATION 
+           APOS SOLICITAR ACESSO FICA DISPONIVÉL POR 7 DIAS.
+           VERIFICAR NA PLANILHA LINHA -> 18 
+           SE HOUVE PATCH LINUX O SERVIÇO DO REINF NÃO SOBE. 
+SOLUÇÕES:  QUANDO HOUVER UMA PACTH PARAR O SERVIÇO NA SEXTA E REINICAR NA SEGUNDA.
+
+
+
+CASE : KELLY ALVARENGA
+ACTIONS : REPLICAR A PARAMETRIZAÇÃO EM PROD E VERFICAR SE ESTÁ ASSERTIVO OU NÃO
+          O STATUS ESTÁ PENDENTE POR CONTA DO RETORNO. 
+
+CASE : ANDREIA DA COSTA
+ACTIONS :  
+
+
+
+
+==================================================================================================
+                                    POINTS
+==================================================================================================
+
+BRASIL OVERTIME -> USUARIO NAO TEM O CENTRO DE CUSTO CADASTRADO 
+
+==============================================================================
+                            DAILY 09/03
+==============================================================================
+
+CASE :  KELLY ALVARENGA - INC000021077193
+ACTIONS : USUÁRIO DISSE QUE É URGENTE => COLOCAR MAYARA E ENTENDER O CENÁRIO.
+          POLICIAR O USUÁRIO A RESPEITO DE URGÊNCIAS NOS CHAMADOS. 
+
+==============================================================================
+     
+CASE : ANDREIA DA COSTA BARROS - REINF
+ACTIONS : VERIFICAR A QUESTÃO DOS AMBIENTES DEV/QA => PROD => OK
+
+==============================================================================
+
+CASE : JAMILE DE LIMA 
+ACTIONS : VERIFICAR O AMBIENTE E O STATUS DA CHANGE SE FOI FECHADA. 
+          SE TEM ALGO EM PROD RELACIONADO.
+
+OBS : ENCERRAR O CASO AINDA HOJE!
+
+CASE : BRASIL OVERTIME => ABRIR SGS 
+ACTIONS : INSTRUÇÃO => NÃO FECHAR O TICKET
+
+==============================================================================
+                        POINTS ESTABELECIDOS NA DAILY
+==============================================================================
+
+1 - MUITOS CASOS ENTRANDO AO MESMO TEMPO E TÁ FICANDO MUITO CONFUSO RESOLVER.
+OBS : SERÁ ALINHADO UMA MANEIRA DE EVITAR QUE ISSO OCORRA ( MAYARA ). 
+
+2 -   
+==============================================================================
+                        LEMBRETES MARCOS - AMANHÃ 
+==============================================================================
+
+1 - COLOCAR OS ARQUIVOS NA PASTA => ( GUARDA )
+2 - NÃO ESQUECER DE RELACIONAR O TICKET 
+3 - ENCERRAR CHAMADOS => 4937 / 7907 / 6851 / 9647  ( STRIKE 3 ) JÁ FOI.
+
+VERIFICAR AMANHÃ O TICKECT : 756513 => ASSOCIADO AO 2757
+
+

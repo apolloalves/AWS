@@ -1,0 +1,49 @@
+#############################################
+# APLICAÇÕES JNJ 
+#############################################
+
+SOFTLAND 
+    FPW : INTEGRA FACIL FOLHAS DE PAGAMENTO DO BRASIL
+    FPW - PAYROLL SYSTEM PROD
+    COFIDI - PAYROLL
+    Q7 - PAYROLL SYSTEM
+
+SYNCHRO - FISCAL SOLUTION PRODUCTION
+BETI 
+ 
+BRASIL OVERTIME
+SGA 
+
+
+TERMINATION : AUDITORIA DA SOX
+
+JJEDS - TODOS OS DADOS DOS COLABORADORES JNJ 
+KDES  - TODOS OS DADOS DOS COLABORADORES KENVEU
+
+SUMMIT - COURSES MANDATORY
+
+
+
+
+M%h%5eay
+
+
+https://myapps.jnj.com/myapps/myapps.jsp?type=Main 
+https://jnjitod.service-now.com/myworkspaces/
+https://teams.microsoft.com/
+
+Dalves18@its.jnj.com
+==============================================================================
+                    FIX FOUNDATION SYNCHRO - FISCAL SOLUTION
+==============================================================================
+
+1 - ACESSAR O AMBIENTE PELO PUTTY
+2 - LOGAR COM O SEU USUÁRIO DE REDE
+3 - LOGAR COMO ROOT => sudo su - 
+4 - foundation check
+5 - LOGAR => admin => Reinf!2021
+6 - cat /proc/sys/net/ipv4/ip_forward => is set 0 
+
+
+
+

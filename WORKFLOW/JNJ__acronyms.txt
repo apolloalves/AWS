@@ -1,0 +1,12 @@
+CBT - Corporate Business Technology 
+GOC - Global Operating Company
+
+PL - Linha de Produtos (ou Clusters)
+São responsáveis pelo tipo de serviço a ser prestado para um GOC específico ou sectores internos 
+da empresa (RH, Jurídico, etc).
+
+
+KCS - ARTIGO DE DESCRIÇÃO DE COMO RESOLVER UM PROBLEMA, PRECISAR SER ANEXADO NOS TICKETS 
+      DE TEMPOS EM TEMPOS FAZEMOS OS UPDATES. 
+      
+      [ PASSA PELO PROCESSO DE PADRONIZAÇÃO DA JNJ ANTES DE SER OFICIALMENTE PUBLICADO ] 

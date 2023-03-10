@@ -1,0 +1,49 @@
+=======================================================================================================
+                                    ENCERRAR UM INCIDENT
+=======================================================================================================
+
+1 - ACESSAR O TICKET (NÚMERO)
+2 - VERIFICAR SE A TAG ESTÁ EM PORTUGUES
+3 - VERIFICAR APP MAINT DETAILS : 
+4 - INCLUIR KCS - CAMPO [ RELATED SEARCH ] => TAB RESOLUTION 
+5 - PREENCHER A TAB LOG > WORK NOTES -> DESCRIÇÃO DA SOLUÇÃO DO INCIDENTE
+6 - INCLUIR AS EVIDENCIAS 
+7 - STATE => RESOLVED
+8 - RESOLUTION CODE : 
+9 - RESOLUTION SUB CODE : 
+
+
+=======================================================================================================
+                                     ASSIGN INCIDENT
+=======================================================================================================
+
+TAB LEFT => ACTIVITY => WORK NOTES INTERNAL : ASSIGNED FOR DOUGLAS ALVES 
+TAB RIGHT > ASSIGNED TO  DOUGLAS ALVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======================================================================================================
+                                ABRIR UMA SERVICE REQUEST
+=======================================================================================================
+
+1 ACESSAR IRIS : https://fedlogin.jnj.com/idp/eyJ2c2lkIjoiam5qX2N3In0=/SSO.saml2?SAMLRequest=nVNdj9owEPwrkd%2FJF70LWASJBlVNdeUiQquqb66zuTN17JzXAe7f1wlwx0NBVaVIlnZnd2dmNzNkjYxbuujss1rDSwdovUMjFdJjJiWdUVQzFEgVawCp5bRcfH2gsR%2FS1miruZbEWyCCsUKrTCvsGjAlmJ3g8G39kJJna1ukQbBVW1dR%2BXjMjZTe%2B1w3gTACibd0s4VifZP3khoqqZ%2BE8l3tEVu1Abx%2BiXksf%2BdbLVhz9%2FIjXo1zFaZBWT76A2%2FifdKGwyArJdZ0QLx8mZJylYX344RHnH8I67sEppN66t4EoK4hqifTHogFQxQ7SEnNJA4R7CBXaJmyKYnDeDwK3Xe%2FiSZ0nNAw8afR5CfxipMfH4WqhHq6bd6vIwjp582mGBWP5WZosBMVmJVD%2F6tv38Hg4JlrSuazQT8dGJvLVd4mw877I%2FMr02bBZefTnJb2TPNloaXgr95CSr3PDDALZ9fdHhpmrw%2BP%2FGiIiGpUD1DaKWyBi1pARYK3OafjhGrYqbsyCwfrZbppmXOhlw8Hxu2bAZewTDp5a6j%2Fy46bME5539uF%2B5PZa1P1JwDc8dwY5oRoY8%2FG%2FY3R%2FJS8ou89ffmDzv8A&RelayState=https%3A%2F%2Fjnjprod.service-now.com%2Firis&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=NwBR62RqGRq%2FR4qRLhqoXJPjkxxfd9uCgT6O7BjMdP6zcr9piNYZl4yyKUJrBli7roZQ5n53KZFjSMGRp3IQeppiJlASnj5x%2Ft%2BdDXMtxRgoPKGJVrK8oaP2OTXvrSohb1sXm4NRQ2b%2F2QHx%2BteX0hmFHv%2B764Vj1CmClsObw22QANdmtL44T8oI0Wv4e8oOhFKo%2FSh25KfDUk2QuWd%2Fe3qO%2FM7W2bFq682nsR6l04G9juaIT5ICd9SBhVtHqw7lyZuB7Sth6lKsocyUSFsyU87i%2BQWsehkQjjsZKSm45zS0rrt1%2FAPdKiM7aSkSuS5FLv5YCz8lwj1aZRu21k7hzA%3D%3D 
+
+
+2 - Home
+    Software & Applications
+    Operational Activities
+    Modify Content & Configuration
+
+3 - REQUEST FOR : 
+4 - APLICACION CI  : 
+5 - 
