@@ -225,3 +225,54 @@ FLUXO DE CONCESSÃO DE ACESSO -> PROCESSO PRECISA SER MELHORIADO
 
 change execute 
 change 
+
+================================================================
+                            DAILY 13/03
+================================================================
+
+CASE :  REFRESH DA SEMANA ANTERIOR - FPW
+        QUERY DE VALIDAÇÃO COM ERRO.
+
+ACTIONS : RESOLVIDO -< COMUNICAR O BUSINESS. 
+
+CASE :  KELLY ALVARENGA/ANDREIA DA COSTA
+ACTIONS : MANDAR E-MAIL SOBRE O AGUARDO DO RETORNO 
+EMAIL   : ESPERO SEU POSICIONAMENTO NO FINAL DO DIA.
+OBS :     FORMALIZAR COM ELA 
+
+CASE :  VITORIA -< MBOX
+ACTIONS :  PRECISAMOS VERIFICAR A CAUSA RAIZ DO PROBLEMA
+           TALVEZ TENHA SIDO UMA INDIPONIBILIDADE/INSTABILIDADE
+           VERIFICAR NO ORB 
+
+SATO : INFORMOU QUE O AMBIENTE ESTAVA BEM INSTÁVEL 
+
+CASE : TASK -< MARIA ECILA PAES ->  
+ACTIONS : RELACIONAR O TICKET DO DBA E TAMBEM RELACIONAR COM O TICKET ANTIGO
+          QUE ESTÁ PARADO.
+
+CASE : GRID -< MARIESTER 
+ACTIONS : VERIFICAR COM O BRUNO HJ A TARDE
+
+CASE : GRID -< ANDRE LUIS MONTEIRO 
+ACTIONS : CONCEDER ACESSO -> FORM JÁ PREENCHIDO.
+
+
+
+===================================================================
+                            POINTS
+===================================================================
+
+A REGRA DOS TRÊS STRIKES É APLICADO EM TODOS OS TIMES, 
+PRECISAMOS DOCUMENTAR 
+
+FALAR COM A VITORIA -< 
+
+================================================================
+                            DAILY 14/03
+================================================================
+
+CASE : ANDREIA BARROS -< SYNCHRO -< SPED APURAÇÃO 
+ACTIONS : COMO NÃO HÁ POSSIBILIDADE DE VALIDAÇÃO DEVE SER FECHADO 
+          O TICKET E SOLICITAR ABERTURA DE UMA TASK.
+          MAYARA SERÁ NOSSO ESCUDO PARA ESTE CASO.
